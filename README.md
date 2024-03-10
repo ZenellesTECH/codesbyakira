@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codesbyakira a graduate of python programming from Root Coding Club.
 - 💞️ I’m looking to collaborate on projects.
-- i'm looking for help with improving my skills as a python developer
+- 😍i'm looking for help with improving my skills as a python developer
 - 📫 How to reach me ...whatsapp and mobile: +234901999859
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...i love eating and swimming.
